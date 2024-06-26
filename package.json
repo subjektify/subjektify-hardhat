@@ -1,6 +1,6 @@
 {
     "name": "@subjektifylabs/subjektify-hardhat",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A Subjektify plugin for integrating Hardhat into Subjektify projects seamlessly.",
     "author": "Subjektify Labs",
     "license": "Apache-2.0",
@@ -21,7 +21,7 @@
         "hardhat": "^2.22.5"
     },
     "peerDependencies": {
-        "subjektify": "0.0.24"
+        "subjektify": "^0.0.36"
     },
     "devDependencies": {
         "@types/node": "^20.12.13",
